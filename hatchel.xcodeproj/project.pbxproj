@@ -512,6 +512,7 @@
 				8A5D56001F8A41F2004AFF61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8A5D56011F8A41F2004AFF61 /* Build configuration list for PBXNativeTarget "hatchelTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +521,7 @@
 				8A5D56031F8A41F2004AFF61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8A5D56041F8A41F2004AFF61 /* Build configuration list for PBXNativeTarget "hatchelUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +530,7 @@
 				8A5D56061F8A41F2004AFF61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
